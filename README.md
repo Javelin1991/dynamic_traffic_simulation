@@ -1,7 +1,7 @@
 # Data-driven Microscopic Traffic Modelling and Simulation using Dynamic LSTM
 This repostiory contains both the original manuscript and supplementary materials of our paper, "Data-driven Microscopic Traffic Modelling and Simulation using Dynamic LSTM", submitted to SIGSIM conference on PADS (2021) under Association of Computing Machinery (ACM).
 
-NOTE: If you are using or referring to any of the contents present in this supplementary document, please kindly consider citing our paper as below. Thank you for your consideration.
+If you are using or referring to any of the contents present in this supplementary document, please kindly consider citing our paper as below. Thank you for your consideration.
 
 ```
 @inproceedings{naing2021data,
